@@ -1,5 +1,4 @@
-## To match-up in situ stations with nearest L3 or L4 satellite data for each day
-##  and the 0.5, 1 and 2 deg median values
+## To match-up in situ stations with nearest L4 satellite data for each day
 ## The output is a list for each sensor (e.g. 'lst_MODISA_L3/4') of data frames for each day
 
 ## The climatologies can be determined from the extracted nearest values using decompose
