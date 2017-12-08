@@ -1,5 +1,6 @@
 ## Opens the data and climatology raster bricks created by '1.0_getDataStack.R'
 ## Creates and saves or opens the anomaly stack '*_anom.grd'
+## What does it output and why?
 
 library(raster)
 library(rasterVis)
