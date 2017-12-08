@@ -1,4 +1,4 @@
-## Opens the sst  (AVHRR-OI_data.grd) and anomaly (AVHRR-OI_anom.grd) raster bricks created by '3.0_getSSTanom.R'
+## Opens the sst  (product_data.grd) and anomaly (product_anom.grd) raster bricks created by '3.0_getSSTanom.R'
 ## Uses the 2, 1 and 0.5 deg polygons created by OAFlux '1.0_createBB.R' to extract:
 ##      mean SST and anomaly
 ##      std dev SST and anomaly
