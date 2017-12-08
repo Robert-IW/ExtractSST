@@ -1,4 +1,4 @@
-## Creates a monthly climatology and std dev from L4 25 km AVHRR-OI data
+## Creates a monthly climatology and std dev from L4 data
 
 ## A detrended climatology is considered but not yet applied (10-05-2017)
 
