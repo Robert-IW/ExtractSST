@@ -1,4 +1,4 @@
-## To load all the L4 AVHRR-OIsatellite data as raster stack
+## To load all the L4 satellite data as raster stack
 
 library(raster)
 library(rasterVis)
