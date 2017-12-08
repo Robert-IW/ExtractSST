@@ -1,5 +1,4 @@
 ## Creates a monthly climatology and std dev from L4 data
-
 ## A detrended climatology is considered but not yet applied (10-05-2017)
 
 library(raster)
